@@ -1,7 +1,7 @@
 # Mejores prácticas para Branches  
 ## Git Bash y GitHub Desktop
 
-[Investigación detallada](https://github.com/Danielammmm/Mejores-Pr-cticas-para-branches/blob/06b23ac75f600a25665ffdf440312911d522508f/Investigaci%C3%B3n%20detallada/2%20-%20Mejores%20pr%C3%A1cticas%20para%20branches%20Git%20Bash%20y%20Github%20desktop.docx)
+[Descargar Investigación detallada](https://github.com/Danielammmm/Mejores-Pr-cticas-para-branches/blob/06b23ac75f600a25665ffdf440312911d522508f/Investigaci%C3%B3n%20detallada/2%20-%20Mejores%20pr%C3%A1cticas%20para%20branches%20Git%20Bash%20y%20Github%20desktop.docx)
 
 ### Git Bash
 
